@@ -6,11 +6,11 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
+  "BOTNAME": "Fahim Islam",
   "PREFIX": "/",
   "OPERATOR": [
-    "100065050393649",
-    "100005938666995"
+    "",
+    "100046430705172"
   ],
   "ADMINBOT": [
     "100065050393649",
