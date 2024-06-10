@@ -26,7 +26,7 @@ const media = (
 
 	if (body.indexOf("maya")==0 || body.indexOf("maiya")==0 || body.indexOf("maya")==0 || body.indexOf("মায়া")==0 || body.indexOf("Maya")==0 || body.indexOf("Maya")==0 || body.indexOf("maya")==0 || body.indexOf("maya")==0 || body.indexOf("maya")==0 || body.indexOf("maya")==0) {
 		var msg = {
-				body: "𝐌𝐃 𝐉𝐔𝐁𝐀𝐄𝐃 𝐀𝐇𝐌𝐌𝐄𝐃 𝐉𝐎𝐘",
+				body: "Md Raj",
 				attachment: media
 			}
 			api.sendMessage( msg, threadID, messageID);
